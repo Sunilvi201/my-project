@@ -1,6 +1,6 @@
 {
-    "homepage": "http://sunilvi201.github.io/my-project",
-    "name": "react-website",
+    "homepage": "http://sunilvi201.github.io/react-website",
+    "name": "react-website-app",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
